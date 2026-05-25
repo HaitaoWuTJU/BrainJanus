@@ -10,8 +10,9 @@
 - [Citation](#citation)
 - [Contact us](#contact-us)
 
-## Introduction
-This is the official implementation of **BrainJanus: A Foundation Model for Unified Understanding and Generation across Brain, Vision, and Language** (ICML 2026). This repository is currently under active development. More code, pretrained models, datasets, and documentation will be released progressively.
+## Introduction 
+**This repository is currently under active development. More code, pretrained models, datasets, and documentation will be released progressively.**
+This is the official implementation of **BrainJanus: A Foundation Model for Unified Understanding and Generation across Brain, Vision, and Language** (ICML 2026). 
 
 BrainJanus is the first unified brain foundation model that integrates **brain, vision, and language** within a single framework. It introduces:
 
