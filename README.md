@@ -200,7 +200,7 @@ The code is inspired by prior awesome works on neural decoding/encoding and unif
 If you find our work helpful, please cite:
 ```bibtex
 @inproceedings{wu2026brainjanus,
-  title={BrainJanus: A Foundation Model for Unified Understanding and Generation across Brain, Vision, and Language},
+  title={BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language},
   author={Wu, Haitao and Zhang, Qirui and Yao, Zhouheng and Sun, Shangquan and Zheng, Qihao and Liu, Mianxin and Zhang, Chi and Ouyang, Wanli and Song, Chunfeng and Zhang, Changqing and Wu, Jiamin},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
   year={2026}
